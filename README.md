@@ -16,7 +16,7 @@ At **Data Seekho**, founded by **Muhammad Usama Hameed**, our mission is to empo
 1. [Introduction](#-introduction) 
 2. [Key Features](#-key-features)
 3. [Installation Guide](#%EF%B8%8F-installation-guide)
-4. [How to Get Started](#-how-to-get-started-with-data-seekhos-python-basics-and-beyond)
+4. [How to Get Started](#-how-to-get-started)
 5. [Project Structure](#%EF%B8%8F-project-structure)
 6. [Contributing](#-contributing)
 7. [Join Data Seekho Community](#-join-data-seekho-community)
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 ---
 
-### 🚦 **How to Get Started with Data Seekho's Python Basics and Beyond**
+### 🚦 **How to Get Started?**
 
 ### Step 1: Start with Basic Exercises
 You can begin your journey by exploring the **basic-exercises** folder. It contains simple Python programs to familiarize yourself with syntax and basic operations.
