@@ -112,21 +112,46 @@ The **projects** folder contains mini-projects to help you apply your Python ski
 Here’s a breakdown of the project structure to help you navigate through it easily:
 
 ```plaintext
-data-seekho-python-basics-and-beyond/
-├── README.md                        # This file with all the instructions
-├── basic-exercises/                  # Fundamental Python concepts
-│   ├── variables_and_operations.py   # Introduction to variables and operators
-│   ├── loops_and_conditions.py       # Learn about loops and conditionals
-│   └── functions.py                  # Practice writing functions
-├── advanced-topics/                  # Intermediate Python concepts
-│   ├── file_handling.py              # Handling files in Python
-│   ├── error_handling.py             # Understanding error management
-│   └── object_oriented_programming.py # Learn about OOP in Python
-├── projects/                         # Real-world project applications
-│   ├── calculator.py                 # A simple calculator project
-│   ├── weather_app.py                # Building a weather app
-│   └── data_analysis.py              # A mini data analysis project
-└── requirements.txt                  # Any required Python libraries
+python-basics-and-beyond/
+├── README.md                                # Instructions and overview of the project
+├── lectures/                                # Lecture notes on fundamental concepts
+│   ├── session1.ipynb                       # Introductory concepts
+│   ├── session2.ipynb                       # Intermediate concepts
+│   ├── session3.ipynb                       # Advanced concepts
+│   └── session4.ipynb                       # More concepts
+├── basic-exercises/                         # Exercises on fundamental concepts
+│   ├── variables_and_operations.ipynb       # Variables and operations
+│   ├── loops_and_conditions.ipynb           # Loops and conditionals
+│   └── functions.ipynb                      # Writing functions
+├── intermediate-exercises/                  # Exercises on intermediate concepts
+│   ├── file_handling.ipynb                  # File handling in Python
+│   ├── error_handling.ipynb                 # Error handling techniques
+│   ├── list_comprehensions.ipynb            # List comprehensions
+│   ├── dictionaries_and_sets.ipynb          # Dictionaries and sets
+│   └── regular_expressions.ipynb            # Basic regex
+├── advanced-exercises/                      # Advanced exercises
+│   ├── object_oriented_programming.ipynb    # OOP concepts
+│   ├── decorators.ipynb                     # Decorators
+│   └── generators.ipynb                     # Generators
+├── projects/                                # Real-world projects
+│   ├── calculator.ipynb                     # Simple calculator
+│   ├── weather_app.ipynb                    # Weather application
+│   └── data_analysis.ipynb                  # Data analysis project
+├── tests/                                   # Unit tests for exercises and projects
+│   ├── test_basic_exercises.ipynb           # Tests for basic exercises
+│   ├── test_intermediate_exercises.ipynb    # Tests for intermediate exercises
+│   └── test_projects.ipynb                  # Tests for projects
+├── resources/                               # Additional learning resources
+│   ├── tutorials.md                         # Links to online tutorials
+│   ├── videos.md                            # Recommended videos
+│   ├── blogs.md                             # Relevant articles
+├── cheat_sheets/                            # Quick reference guides
+│   ├── python_syntax_cheat_sheet.md         # Key syntax and functions
+│   └── libraries_cheat_sheet.md             # Important libraries
+├── images/                                  # images
+│   ├── dataseekho.png                       # bg_dataseekho.png
+└── requirements.txt                         # Required Python libraries
+
 ```
 
 ---
